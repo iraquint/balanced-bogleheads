@@ -1,0 +1,19 @@
+{
+  "name": "balanced-bogleheads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iraquint/balanced-bogleheads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iraquint/balanced-bogleheads/issues"
+  },
+  "homepage": "https://github.com/iraquint/balanced-bogleheads#readme"
+}
